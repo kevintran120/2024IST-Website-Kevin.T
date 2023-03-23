@@ -55,9 +55,11 @@ DIV {
 .button-container {
 	display: flex;
 	width: 100%;
-	min-height: 100vh;
-	justify-content: center;
-	align-items: center;
+	justify-content: right;
+	border: none;
+	margin-bottom: -70px;
+	position: relative;
+	bottom: 70px;
 }
 
 .button {
