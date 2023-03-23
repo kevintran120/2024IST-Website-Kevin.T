@@ -45,11 +45,11 @@ DIV {
 }
 
 /*button code*/
-#Button {
+.buttons {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: sans-serif;
+	font-family: montserrat, sans-serif;
 }
 
 .button-container {
@@ -79,6 +79,7 @@ DIV {
 .button-1 {
 	color: #FFCE00;
 	border: 3px solid #FFCE00;
+	
 }
 
 .button-1:hover {
